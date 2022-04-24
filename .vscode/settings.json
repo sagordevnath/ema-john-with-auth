@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+        
+    },
+    "emmet.excludeLanguages": [
+        "markdown",
+        "JSON"
+    ],
+    "scss.validate": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
